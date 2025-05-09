@@ -1,5 +1,5 @@
 <h1 align="center">
-  <font color="#FFDCE8">Hi there! I'm Rachel Liu</font>
+  <font color="#FFDCE8">Hello, I'm Rachel Liu!</font>
 </h1>
 
 <p align="center">
