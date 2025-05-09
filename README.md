@@ -1,4 +1,4 @@
-<h1 align="center"><span style="color:#FFDCE8;">Hi there! I'm Rachel Liu 👋</span></h1>
+<h1 align="center"><span style="color:#FFDCE8;">Hi there! I'm Rachel Liu </span></h1>
 
 <p align="center">
 I'm a <strong>Mathematics Student</strong> at the University of Waterloo, passionate about <strong>data science</strong> and <strong>design</strong>. I’m eager to explore different sectors in the tech industry and apply my skills in innovative ways!
@@ -6,9 +6,9 @@ I'm a <strong>Mathematics Student</strong> at the University of Waterloo, passio
 
 ---
 
-<h2 style="color: #FFDCE8;">🔧 Tech Stack</h2>
+<h2 style="color: #FFDCE8;">🌸  Tech Stack</h2>
 
-### 🌸 Languages and Frameworks
+### Languages and Frameworks
 
 ![Python](https://img.shields.io/badge/Python-FFDCE8?style=for-the-badge&logo=python&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-FFDCE8?style=for-the-badge&logo=postgresql&logoColor=black)
