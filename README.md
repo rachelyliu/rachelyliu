@@ -6,7 +6,7 @@ I'm a <strong>Mathematics Student</strong> at the University of Waterloo, passio
 
 ---
 
-<h2 style="color: #FFDCE8;">🌸  Tech Stack</h2>
+<h2 style="color: #FFDCE8;">🌸 Tech Stack</h2>
 
 ### Languages and Frameworks
 
