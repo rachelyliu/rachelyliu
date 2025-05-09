@@ -1,7 +1,7 @@
 <h1 align="center" style="color: #FFDCE8;">Hi there! I'm Rachel Liu 👋</h1>
 
 <p align="center">
-I'm a <strong>Mathematics Student</strong> at the University of Waterloo, passionate about <strong>data science</strong>strong> and <strong>design</strong>strong>. I’m eager to explore different sectors in the tech industry and apply my skills in innovative ways!
+I'm a <strong>Mathematics Student</strong> at the University of Waterloo, passionate about <strong>data science</strong> and <strong>design</strong>. I’m eager to explore different sectors in the tech industry and apply my skills in innovative ways!
 </p>
 
 ---
